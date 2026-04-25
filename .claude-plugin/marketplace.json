@@ -1,0 +1,16 @@
+{
+  "name": "ionworks",
+  "owner": {
+    "name": "Ionworks",
+    "url": "https://ionworks.com"
+  },
+  "plugins": [
+    {
+      "name": "ionworks",
+      "source": ".",
+      "description": "Run battery R&D workflows with Claude — data ingest, cell characterization, modeling, and simulation via the Ionworks platform.",
+      "category": "science",
+      "keywords": ["battery", "battery-research", "electrochemistry", "simulation", "ionworks", "modelling"]
+    }
+  ]
+}
