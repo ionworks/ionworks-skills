@@ -1,0 +1,23 @@
+{
+  "name": "ionworks",
+  "version": "0.2.0",
+  "description": "Run battery R&D workflows with Claude — data ingest, cell characterization, modeling, and simulation via the Ionworks platform.",
+  "author": {
+    "name": "Ionworks",
+    "url": "https://ionworks.com"
+  },
+  "homepage": "https://github.com/ionworks/ionworks-skills",
+  "repository": "https://github.com/ionworks/ionworks-skills",
+  "license": "MIT",
+  "keywords": [
+    "battery",
+    "battery-research",
+    "electrochemistry",
+    "simulation",
+    "ionworks",
+    "modelling"
+  ],
+  "skills": "./",
+  "commands": "./commands",
+  "hooks": "./hooks/hooks.json"
+}
